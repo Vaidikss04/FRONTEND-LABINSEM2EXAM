@@ -1,0 +1,9 @@
+.room-card {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 15px;
+  width: 200px;
+  border-radius: 10px;
+  display: inline-block;
+  background-color: lightblue;
+}
